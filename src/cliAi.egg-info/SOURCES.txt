@@ -1,0 +1,8 @@
+pyproject.toml
+src/cliAi/__main__.py
+src/cliAi.egg-info/PKG-INFO
+src/cliAi.egg-info/SOURCES.txt
+src/cliAi.egg-info/dependency_links.txt
+src/cliAi.egg-info/entry_points.txt
+src/cliAi.egg-info/requires.txt
+src/cliAi.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+[project]
+name = "cliAi"
+dynamic = ['version']
+description = "A simple CLI example using Typer"
+dependencies = ["typer[all]"]
+
+[project.scripts]
+cliAi = "cliAi.__main__:main"
+
+[tool.hatch.version]
+path = "__version__.py"
+pattern = '^__version__ = "(?P<version>.*)"'
+source = "regex"

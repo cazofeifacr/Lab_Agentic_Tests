@@ -1,0 +1,2 @@
+[console_scripts]
+cliAi = cliAi.__main__:main
