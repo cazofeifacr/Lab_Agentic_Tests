@@ -1,3 +1,5 @@
 typer[all]
 hatch
 pytest
+PyGithub
+requests
